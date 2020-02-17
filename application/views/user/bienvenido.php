@@ -15,6 +15,8 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 
 <div id="container">
 	<h1> CodeIgniter in Betooo!</h1>
+	<?=$mi_menu;
+	?>
 
 	<div id="body">
 		<h1>llamado controlador User.</h1>
